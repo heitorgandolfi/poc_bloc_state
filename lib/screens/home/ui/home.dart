@@ -58,7 +58,6 @@ class _HomeScreenState extends State<HomeScreen> {
             return Scaffold(
               appBar: AppBar(
                 title: const Text("Tech Store"),
-                centerTitle: true,
                 actions: [
                   IconButton(
                       onPressed: () {
