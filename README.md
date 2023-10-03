@@ -1,16 +1,3 @@
-# poc_bloc_state
+# PoC State Management with Bloc in Flutter
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+This repository was created as part of a Proof of Concept (PoC) to explore and test the Bloc (Business Logic Component) state management pattern in Flutter app development. Bloc is an effective methodology for maintaining application state in a clear, scalable, and reactive manner, and this PoC serves as a playground to showcase its usage and potential.
